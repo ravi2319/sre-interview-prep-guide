@@ -74,6 +74,16 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Terraform](https://learn.hashicorp.com/terraform)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 
+## Databases
+
+- [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
+- [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
+- [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
+- [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+- [ ] [Data Replication in DBMS](https://www.geeksforgeeks.org/data-replication-in-dbms)
+- [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
+
 ## CI/CD
 
 - [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
@@ -121,6 +131,14 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
+
+### System design examples
+
+- [ ] [Designing WhatsApp](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
+- [ ] [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
+- [ ] [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
+- [ ] [Designing Instagram](http://highscalability.com/blog/2022/1/11/designing-instagram.html)
+- [ ] [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
 
 ## Monitoring
 
